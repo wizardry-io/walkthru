@@ -1,0 +1,13 @@
+{
+  "name": "walkthru",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "markdown-shell-script": "^1.0.0",
+    "pify": "^3.0.0"
+  },
+  "bin": "./bin/walkthru.js",
+  "preferGlobal": true
+}
